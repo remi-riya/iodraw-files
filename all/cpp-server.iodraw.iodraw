@@ -123,7 +123,7 @@
         <mxCell id="G_onyFbYdVuYriDIJClc-75" value="onRecv : 发生事件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G_onyFbYdVuYriDIJClc-42">
           <mxGeometry y="146" width="210" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="G_onyFbYdVuYriDIJClc-46" value="Channel : 封装IO事件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G_onyFbYdVuYriDIJClc-46" value="Channel : 封装fd与对应IO事件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="660" width="190" height="164" as="geometry" />
         </mxCell>
         <mxCell id="G_onyFbYdVuYriDIJClc-47" value="fd : 文件描述符" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G_onyFbYdVuYriDIJClc-46">
