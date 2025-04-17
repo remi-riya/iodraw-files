@@ -106,16 +106,19 @@
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="G_onyFbYdVuYriDIJClc-46" value="Channel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="452" width="140" height="104" as="geometry" />
+          <mxGeometry x="650" y="452" width="140" height="112" as="geometry" />
         </mxCell>
         <mxCell id="G_onyFbYdVuYriDIJClc-47" value="fd : 文件描述符" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G_onyFbYdVuYriDIJClc-46">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="G_onyFbYdVuYriDIJClc-50" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="G_onyFbYdVuYriDIJClc-46">
+          <mxGeometry y="52" width="140" height="8" as="geometry" />
+        </mxCell>
         <mxCell id="G_onyFbYdVuYriDIJClc-48" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G_onyFbYdVuYriDIJClc-46">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+          <mxGeometry y="60" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="G_onyFbYdVuYriDIJClc-49" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G_onyFbYdVuYriDIJClc-46">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+          <mxGeometry y="86" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
