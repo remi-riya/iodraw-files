@@ -155,6 +155,9 @@
         <mxCell id="G_onyFbYdVuYriDIJClc-61" value="removeChannel : 删除Channel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G_onyFbYdVuYriDIJClc-55">
           <mxGeometry y="138" width="200" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="G_onyFbYdVuYriDIJClc-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G_onyFbYdVuYriDIJClc-32" target="G_onyFbYdVuYriDIJClc-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
