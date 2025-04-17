@@ -197,18 +197,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G_onyFbYdVuYriDIJClc-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="G_onyFbYdVuYriDIJClc-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="610" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="620" y="610" />
-              <mxPoint x="620" y="609" />
-              <mxPoint x="480" y="609" />
-              <mxPoint x="480" y="237" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G_onyFbYdVuYriDIJClc-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G_onyFbYdVuYriDIJClc-75" target="G_onyFbYdVuYriDIJClc-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G_onyFbYdVuYriDIJClc-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G_onyFbYdVuYriDIJClc-72" target="G_onyFbYdVuYriDIJClc-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
