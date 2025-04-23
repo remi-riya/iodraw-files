@@ -168,8 +168,14 @@
         </mxCell>
         <mxCell id="z1mDu0xkl4bxoXmNoZKA-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="815" as="sourcePoint" />
-            <mxPoint x="215" y="765" as="targetPoint" />
+            <mxPoint x="195" y="780" as="sourcePoint" />
+            <mxPoint x="225" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1mDu0xkl4bxoXmNoZKA-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="725" as="sourcePoint" />
+            <mxPoint x="395" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
