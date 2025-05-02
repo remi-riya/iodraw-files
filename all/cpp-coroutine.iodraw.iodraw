@@ -70,14 +70,6 @@
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-200" y="66" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j7e_1vZ3LcrFMuq59LfH-21" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="-50" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j7e_1vZ3LcrFMuq59LfH-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" source="j7e_1vZ3LcrFMuq59LfH-21" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-60" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-23" value="调用协程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-150" y="-52" width="80" height="30" as="geometry" />
         </mxCell>
