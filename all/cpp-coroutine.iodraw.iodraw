@@ -28,23 +28,23 @@
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-8" value="await_resume" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-5">
           <mxGeometry y="78" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="j7e_1vZ3LcrFMuq59LfH-9" value="TaskPromise : promise_type&lt;div&gt;Promise负责处理值相关操作&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="50" width="210" height="156" as="geometry" />
+        <mxCell id="j7e_1vZ3LcrFMuq59LfH-9" value="TaskPromise : promise_type&lt;div&gt;Promise负责处理值相关操作&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="20" width="269.23" height="156" as="geometry" />
         </mxCell>
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-10" value="initial_suspend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
-          <mxGeometry y="26" width="210" height="26" as="geometry" />
+          <mxGeometry y="26" width="269.23" height="26" as="geometry" />
         </mxCell>
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-11" value="final_suspend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
-          <mxGeometry y="52" width="210" height="26" as="geometry" />
+          <mxGeometry y="52" width="269.23" height="26" as="geometry" />
         </mxCell>
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-12" value="get_or_throw" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
-          <mxGeometry y="78" width="210" height="26" as="geometry" />
+          <mxGeometry y="78" width="269.23" height="26" as="geometry" />
         </mxCell>
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-14" value="return_value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
-          <mxGeometry y="104" width="210" height="26" as="geometry" />
+          <mxGeometry y="104" width="269.23" height="26" as="geometry" />
         </mxCell>
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-13" value="yield_value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
-          <mxGeometry y="130" width="210" height="26" as="geometry" />
+          <mxGeometry y="130" width="269.23" height="26" as="geometry" />
         </mxCell>
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="j7e_1vZ3LcrFMuq59LfH-16" target="j7e_1vZ3LcrFMuq59LfH-32">
           <mxGeometry relative="1" as="geometry" />
