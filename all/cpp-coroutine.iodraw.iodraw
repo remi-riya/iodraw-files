@@ -59,7 +59,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j7e_1vZ3LcrFMuq59LfH-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="j7e_1vZ3LcrFMuq59LfH-18">
+        <mxCell id="j7e_1vZ3LcrFMuq59LfH-20" value="协程内部" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="j7e_1vZ3LcrFMuq59LfH-18">
           <mxGeometry x="0.0292" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
