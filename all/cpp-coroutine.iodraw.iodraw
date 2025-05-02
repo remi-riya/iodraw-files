@@ -43,7 +43,7 @@
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-14" value="return_value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
           <mxGeometry y="104" width="210" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="j7e_1vZ3LcrFMuq59LfH-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
+        <mxCell id="j7e_1vZ3LcrFMuq59LfH-13" value="yield_value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j7e_1vZ3LcrFMuq59LfH-9">
           <mxGeometry y="130" width="210" height="26" as="geometry" />
         </mxCell>
       </root>
