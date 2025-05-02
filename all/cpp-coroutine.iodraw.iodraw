@@ -90,6 +90,9 @@
         <mxCell id="j7e_1vZ3LcrFMuq59LfH-41" value="await_transform&lt;div&gt;构造awaiter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="345" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7e_1vZ3LcrFMuq59LfH-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="500" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
