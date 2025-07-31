@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="janPsGLoKBI9XIm8teJH-1" value="BufferPoolManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="210" height="112" as="geometry" />
+          <mxGeometry x="80" y="40" width="210" height="164" as="geometry" />
         </mxCell>
         <mxCell id="janPsGLoKBI9XIm8teJH-2" value="replacer_ : LRUKReplacer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="janPsGLoKBI9XIm8teJH-4" value="NewPage : page_id_t" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
           <mxGeometry y="86" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="janPsGLoKBI9XIm8teJH-6" value="DeletePage : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
+          <mxGeometry y="112" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="janPsGLoKBI9XIm8teJH-7" value="DeletePage : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
+          <mxGeometry y="138" width="210" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
