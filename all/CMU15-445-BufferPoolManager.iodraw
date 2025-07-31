@@ -7,11 +7,6 @@
         <mxCell id="janPsGLoKBI9XIm8teJH-1" value="BufferPoolManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="40" width="250" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="janPsGLoKBI9XIm8teJH-31" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="janPsGLoKBI9XIm8teJH-1" source="janPsGLoKBI9XIm8teJH-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-79" y="39" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="janPsGLoKBI9XIm8teJH-2" value="replacer_ : LRUKReplacer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
         </mxCell>
@@ -53,6 +48,9 @@
         </mxCell>
         <mxCell id="janPsGLoKBI9XIm8teJH-28" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="janPsGLoKBI9XIm8teJH-25">
           <mxGeometry y="112" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="janPsGLoKBI9XIm8teJH-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.494;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="janPsGLoKBI9XIm8teJH-2" target="janPsGLoKBI9XIm8teJH-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
