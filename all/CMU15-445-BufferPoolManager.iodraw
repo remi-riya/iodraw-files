@@ -16,7 +16,7 @@
         <mxCell id="janPsGLoKBI9XIm8teJH-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
           <mxGeometry y="78" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="janPsGLoKBI9XIm8teJH-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
+        <mxCell id="janPsGLoKBI9XIm8teJH-4" value="NewPage :&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="janPsGLoKBI9XIm8teJH-1">
           <mxGeometry y="86" width="210" height="26" as="geometry" />
         </mxCell>
       </root>
